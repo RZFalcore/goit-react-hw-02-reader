@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RZFalcore/goit-react-hw-02-reader/static/css/main.2cce8147.chunk.css",
+    "main.js": "/RZFalcore/goit-react-hw-02-reader/static/js/main.0b3d5e50.chunk.js",
+    "main.js.map": "/RZFalcore/goit-react-hw-02-reader/static/js/main.0b3d5e50.chunk.js.map",
+    "runtime~main.js": "/RZFalcore/goit-react-hw-02-reader/static/js/runtime~main.5c54bf53.js",
+    "runtime~main.js.map": "/RZFalcore/goit-react-hw-02-reader/static/js/runtime~main.5c54bf53.js.map",
+    "static/js/2.b41502e9.chunk.js": "/RZFalcore/goit-react-hw-02-reader/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/RZFalcore/goit-react-hw-02-reader/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/RZFalcore/goit-react-hw-02-reader/index.html",
+    "precache-manifest.7637937a0894f7cff0e1901ef0a4eb94.js": "/RZFalcore/goit-react-hw-02-reader/precache-manifest.7637937a0894f7cff0e1901ef0a4eb94.js",
+    "service-worker.js": "/RZFalcore/goit-react-hw-02-reader/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/RZFalcore/goit-react-hw-02-reader/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/RZFalcore/goit-react-hw-02-reader/static/media/logo.5d5d9eef.svg"
+  }
+}
