@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RZFalcore/goit-react-hw-02-reader/static/css/main.2fe90adb.chunk.css",
-    "main.js": "/RZFalcore/goit-react-hw-02-reader/static/js/main.495b0766.chunk.js",
-    "main.js.map": "/RZFalcore/goit-react-hw-02-reader/static/js/main.495b0766.chunk.js.map",
-    "runtime~main.js": "/RZFalcore/goit-react-hw-02-reader/static/js/runtime~main.5c54bf53.js",
-    "runtime~main.js.map": "/RZFalcore/goit-react-hw-02-reader/static/js/runtime~main.5c54bf53.js.map",
-    "static/js/2.8fa3d35f.chunk.js": "/RZFalcore/goit-react-hw-02-reader/static/js/2.8fa3d35f.chunk.js",
-    "static/js/2.8fa3d35f.chunk.js.map": "/RZFalcore/goit-react-hw-02-reader/static/js/2.8fa3d35f.chunk.js.map",
-    "index.html": "/RZFalcore/goit-react-hw-02-reader/index.html",
-    "precache-manifest.0b0a86ff1016219a664689f3ab05ede2.js": "/RZFalcore/goit-react-hw-02-reader/precache-manifest.0b0a86ff1016219a664689f3ab05ede2.js",
-    "service-worker.js": "/RZFalcore/goit-react-hw-02-reader/service-worker.js",
-    "static/css/main.2fe90adb.chunk.css.map": "/RZFalcore/goit-react-hw-02-reader/static/css/main.2fe90adb.chunk.css.map"
+    "main.css": "/goit-react-hw-02-reader/static/css/main.2fe90adb.chunk.css",
+    "main.js": "/goit-react-hw-02-reader/static/js/main.a535ad2d.chunk.js",
+    "main.js.map": "/goit-react-hw-02-reader/static/js/main.a535ad2d.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-02-reader/static/js/runtime~main.da19d381.js",
+    "runtime~main.js.map": "/goit-react-hw-02-reader/static/js/runtime~main.da19d381.js.map",
+    "static/js/2.8fa3d35f.chunk.js": "/goit-react-hw-02-reader/static/js/2.8fa3d35f.chunk.js",
+    "static/js/2.8fa3d35f.chunk.js.map": "/goit-react-hw-02-reader/static/js/2.8fa3d35f.chunk.js.map",
+    "index.html": "/goit-react-hw-02-reader/index.html",
+    "precache-manifest.b54640ef06546053367c1d8b80d2fd2a.js": "/goit-react-hw-02-reader/precache-manifest.b54640ef06546053367c1d8b80d2fd2a.js",
+    "service-worker.js": "/goit-react-hw-02-reader/service-worker.js",
+    "static/css/main.2fe90adb.chunk.css.map": "/goit-react-hw-02-reader/static/css/main.2fe90adb.chunk.css.map"
   }
 }
